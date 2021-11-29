@@ -6,5 +6,8 @@ export default defineConfig({
   plugins: [vue()],
   server: {
     host: true
-  }
+  },
+  base: process.env.NODE_ENV === 'production'
+      ? '/vue-calculator-demo/'
+      : '/'
 })
