@@ -2,7 +2,7 @@
 
 just a simple calculator. 
 
-demo: https://apollo314.github.io/https://apollo314.github.io/vue-calculator-demo/
+demo: https://apollo314.github.io/vue-calculator-demo/
 
 ## Project setup
 ```
